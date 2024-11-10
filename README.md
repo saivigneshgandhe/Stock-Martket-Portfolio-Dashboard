@@ -1,3 +1,5 @@
+Tableau Stock Market Dashboard Visualization
+
 Project Vision and Objectives
 Audience:
 The primary audience for this project is long-term investors who are looking to make 
